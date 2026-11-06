@@ -1,0 +1,18 @@
+{
+  "name": "plane_portfolio",
+  "version": "1.0.0",
+  "description": "Interactive aviation portfolio of Praveen Balaji G",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [
+    "portfolio",
+    "aviation"
+  ],
+  "author": "Praveen Balaji G",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
